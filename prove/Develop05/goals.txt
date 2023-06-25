@@ -1,0 +1,4 @@
+0
+SimpleGoal,SimpleTest,10,TestSimple,False
+ChecklistGoal,TestCheckGoal,50,TestCheckDesc,False,0,3,100
+EternalGoal,EternalTest,100,Onewheel once a week,False
